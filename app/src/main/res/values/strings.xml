@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Epicture</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="edit_text_hint">Type a flickr tag...</string>
+    <string name="button_label">Search</string>
+
+</resources>
